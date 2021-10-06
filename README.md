@@ -1,9 +1,8 @@
 ## About MickDev 👋
 
+Hi my name is mick i be a game developer
 
-MicKDeveloper/MickDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My skill:
 
 - C# Bot Developer
 - Java Game Developer
