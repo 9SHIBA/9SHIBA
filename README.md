@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&vCenter=true&lines=MickDev+GUI...+Loading100%)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&vCenter=true&lines=9SHI+GUI...+Loading100%)](https://git.io/typing-svg)
 
-Hi My name is Mick From Thailand
+Hi My name is Shi From Thailand
 Thank For Visit my Github profile
 ----------------------------------
 
