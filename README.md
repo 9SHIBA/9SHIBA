@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&vCenter=true&lines=9SHI+GUI...+Loading100%)](https://git.io/typing-svg)
 
-Hi My name is Shi From Thailand
+My Name is Shi From TH
+Main Java , JS&TS
 Thank For Visit my Github profile
 ----------------------------------
 
